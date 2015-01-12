@@ -1,0 +1,31 @@
+{
+  "name": "parallel-tasks-example",
+  "version": "1.0.0",
+  "description": "Parallel tasks execution sample code using generators or promises",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardzone/parallel-tasks-example.git"
+  },
+  "keywords": [
+    "parallel",
+    "async",
+    "generators",
+    "co",
+    "promises",
+    "bluebird"
+  ],
+  "author": "Richard LIU <i@richard.zone>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardzone/parallel-tasks-example/issues"
+  },
+  "homepage": "https://github.com/richardzone/parallel-tasks-example",
+  "dependencies": {
+    "bluebird": "^2.6.2",
+    "co": "^4.1.0",
+    "ramda": "^0.8.0"
+  }
+}
